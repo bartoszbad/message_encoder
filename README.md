@@ -14,3 +14,6 @@ App for encoding and decoding message. Encoded message may be hard to read for m
 * encode you message to format: separator, encoded_message, seprator, list_of_original_words
 * decode encoded message to format of original one - delivered message must be in encode format
 
+## License:
+Please see LICENSE file
+
